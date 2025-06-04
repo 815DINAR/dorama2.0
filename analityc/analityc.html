@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Анализ сессий Telegram Mini-App</title>
 
+  <!-- Подключаем стили -->
+  <link rel="stylesheet" href="analityc.css" />
+
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <main class="container">
+    <h1>Загрузите JSON и получите график</h1>
+
+    <label class="file-input-label">
+      <input id="jsonFile" type="file" accept=".json" />
+      Выбрать JSON-файл
+    </label>
+
+    <section id="summary" class="summary hidden"></section>
+
+    <div class="chart-wrapper hidden">
+      <canvas id="sessionsChart"></canvas>
+    </div>
+  </main>
+
+  <!-- Скрипт -->
+  <script src="analityc.js"></script>
+</body>
+</html>

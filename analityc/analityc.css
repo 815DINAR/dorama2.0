@@ -1,0 +1,59 @@
+/* Базовый тёмный стиль */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+  background: #1e222a;
+  color: #f1f1f1;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 24px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.file-input-label {
+  display: inline-block;
+  background: #ff5722;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.file-input-label:hover {
+  background: #ff693c;
+}
+
+.file-input-label input {
+  display: none; /* прячем настоящий input */
+}
+
+.summary {
+  margin-top: 28px;
+  background: #292e38;
+  border-radius: 14px;
+  padding: 18px 24px;
+  line-height: 1.5;
+}
+
+.hidden {
+  display: none;
+}
+
+.chart-wrapper {
+  margin-top: 40px;
+  background: #292e38;
+  border-radius: 14px;
+  padding: 24px;
+}
