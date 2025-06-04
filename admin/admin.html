@@ -1,1 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Админка</title>
+    <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+    <div class="admin-container">
+        <h1>Управление видео</h1>
+        
+        <!-- Секция загрузки -->
+        <div class="section">
+            <h2>📤 Загрузка нового видео</h2>
+            <form id="uploadForm">
+                <label for="videoFile">Файл видео:</label>
+                <input type="file" id="videoFile" required>
+                
+                <label for="videoTitle">Название:</label>
+                <input type="text" id="videoTitle" required>
+                
+                <label for="videoDescription">Описание:</label>
+                <textarea id="videoDescription" rows="4" placeholder="Введите описание дорамы..." required></textarea>
+                
+                <label for="videoSeries">Серии:</label>
+                <input type="number" id="videoSeries" required>
+                
+                <label for="videoSeasons">Сезоны:</label>
+                <input type="number" id="videoSeasons" required>
+                
+                <label for="videoStatus">Статус:</label>
+                <input type="text" id="videoStatus" required>
+                
+                <label for="videoCountry">Страна:</label>
+                <input type="text" id="videoCountry" required>
+                
+                <label for="videoGenre">Жанр:</label>
+                <input type="text" id="videoGenre" required>
+                
+                <label for="videoLink">Ссылка:</label>
+                <input type="text" id="videoLink" required>
+                
+                <button type="submit" class="btn-primary">Загрузить видео</button>
+            </form>
+        </div>
 
+        <!-- Секция управления видео -->
+        <div class="section">
+            <h2>📋 Управление видео</h2>
+            <div class="management-controls">
+                <button id="loadVideosBtn" class="btn-secondary">🔄 Обновить список</button>
+                <button id="deleteAllBtn" class="btn-danger">🗑️ Удалить все видео</button>
+            </div>
+            
+            <div id="videosStatus" class="status-info">
+                Нажмите "Обновить список" для загрузки видео
+            </div>
+            
+            <div id="videosList" class="videos-list"></div>
+        </div>
+    </div>
+
+    <!-- Модальное окно подтверждения -->
+    <div id="confirmModal" class="modal">
+        <div class="modal-content">
+            <h3>⚠️ Подтверждение</h3>
+            <p id="confirmText">Вы уверены?</p>
+            <div class="modal-buttons">
+                <button id="confirmYes" class="btn-danger">Да, удалить</button>
+                <button id="confirmNo" class="btn-secondary">Отмена</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="admin.js"></script>
+</body>
+</html>
