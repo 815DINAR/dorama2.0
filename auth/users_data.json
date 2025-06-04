@@ -1,0 +1,1145 @@
+{
+    "1062716814": {
+        "user_id": "1062716814",
+        "username": "Dinar_Ilyasov1",
+        "first_name": "Dinar",
+        "last_name": "Ilyasov",
+        "language_code": "ru",
+        "is_premium": false,
+        "first_login": "2025-06-01 02:13:27",
+        "last_login": "2025-06-04 09:54:00",
+        "sessions": [
+            {
+                "session_id": "056012c86511d9f51c4c63425e624c7e",
+                "login_time": "2025-06-01 02:13:27",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-05-31T23:13:57.196Z"
+            },
+            {
+                "session_id": "a60278afc6833939f38626cb526199b4",
+                "login_time": "2025-06-01 02:14:45",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 02:14:45"
+            },
+            {
+                "session_id": "48372366265e5b1b30ddd46706159108",
+                "login_time": "2025-06-01 02:17:17",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-05-31T23:17:47.568Z"
+            },
+            {
+                "session_id": "90ac3155fcc39465c76885f8d0092dee",
+                "login_time": "2025-06-01 11:28:26",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 11:28:26"
+            },
+            {
+                "session_id": "d677cddd365209ae069cc169b49ebd5a",
+                "login_time": "2025-06-01 12:24:18",
+                "logout_time": null,
+                "duration_seconds": 480,
+                "last_activity": "2025-06-01T09:32:18.659Z"
+            },
+            {
+                "session_id": "3ea46c6d28febb2713844651f6d200ee",
+                "login_time": "2025-06-01 12:32:37",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 12:32:37"
+            },
+            {
+                "session_id": "f3e42170fbe98f358ebf202a49c3146e",
+                "login_time": "2025-06-01 12:34:57",
+                "logout_time": null,
+                "duration_seconds": 90,
+                "last_activity": "2025-06-01T09:36:27.869Z"
+            },
+            {
+                "session_id": "0d034ac9672bc2550d72c55a7cd92853",
+                "login_time": "2025-06-01 12:38:31",
+                "logout_time": null,
+                "duration_seconds": 600,
+                "last_activity": "2025-06-01T09:48:31.901Z"
+            },
+            {
+                "session_id": "8220a052e6dfd676460fe4cde8e8a260",
+                "login_time": "2025-06-01 13:11:45",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-01T10:13:45.163Z"
+            },
+            {
+                "session_id": "92e766de88939b46597a8dbbe24e8532",
+                "login_time": "2025-06-01 13:14:14",
+                "logout_time": null,
+                "duration_seconds": 240,
+                "last_activity": "2025-06-01T10:18:14.597Z"
+            },
+            {
+                "session_id": "afee5a263da8e2071f47bda4831558fa",
+                "login_time": "2025-06-01 13:22:03",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 13:22:03"
+            },
+            {
+                "session_id": "e39561163963ba66dc6d06cbdaebbfbe",
+                "login_time": "2025-06-01 13:22:18",
+                "logout_time": null,
+                "duration_seconds": 90,
+                "last_activity": "2025-06-01T10:23:48.044Z"
+            },
+            {
+                "session_id": "33bed026a53b798dcaf4a958fad983ee",
+                "login_time": "2025-06-01 13:26:50",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-01T10:28:50.161Z"
+            },
+            {
+                "session_id": "5665998521baa1b54c197fd7cd84a871",
+                "login_time": "2025-06-01 13:27:12",
+                "logout_time": null,
+                "duration_seconds": 111,
+                "last_activity": "2025-06-01T10:29:03.799Z"
+            },
+            {
+                "session_id": "31c591a03edb4fbe119dcf005c833184",
+                "login_time": "2025-06-01 13:27:46",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 13:27:46"
+            },
+            {
+                "session_id": "8d79c03366e68fad69bf357d52431d0d",
+                "login_time": "2025-06-01 13:28:35",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 13:28:35"
+            },
+            {
+                "session_id": "789fa2ef996d48fe861568ab82e60cf5",
+                "login_time": "2025-06-01 13:28:51",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 13:28:51"
+            },
+            {
+                "session_id": "e18be160031d911492ee871ac4a6c94a",
+                "login_time": "2025-06-01 13:29:26",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-01T10:31:26.510Z"
+            },
+            {
+                "session_id": "4fe45ad6ffe8bfa6ff00508a959795ba",
+                "login_time": "2025-06-01 13:29:43",
+                "logout_time": null,
+                "duration_seconds": 29,
+                "last_activity": "2025-06-01T10:30:12.661Z"
+            },
+            {
+                "session_id": "1bd0ab2ded72b83cf059b1107ba2868c",
+                "login_time": "2025-06-01 13:31:59",
+                "logout_time": null,
+                "duration_seconds": 27745,
+                "last_activity": "2025-06-01T18:14:24.700Z"
+            },
+            {
+                "session_id": "980512d5fdcdf073072144dd1f875da6",
+                "login_time": "2025-06-01 13:38:36",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-01T10:39:06.948Z"
+            },
+            {
+                "session_id": "bb62e6ac2872e0acb8c49f1efc615615",
+                "login_time": "2025-06-01 21:05:59",
+                "logout_time": null,
+                "duration_seconds": 180,
+                "last_activity": "2025-06-01T18:08:59.670Z"
+            },
+            {
+                "session_id": "4741fea74e46b7cc3d002bc6ce647e1d",
+                "login_time": "2025-06-01 21:14:22",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-01T18:14:52.114Z"
+            },
+            {
+                "session_id": "110b123111b2980b71d4c2e0644b35f2",
+                "login_time": "2025-06-01 21:14:45",
+                "logout_time": null,
+                "duration_seconds": 90,
+                "last_activity": "2025-06-01T18:16:15.668Z"
+            },
+            {
+                "session_id": "ac0beb5f0a16fb1367a1723fe0cd7a5f",
+                "login_time": "2025-06-01 21:15:10",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-01T18:17:10.177Z"
+            },
+            {
+                "session_id": "8ef100356d8cc2c7b30433d71758247c",
+                "login_time": "2025-06-01 21:17:12",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:17:12"
+            },
+            {
+                "session_id": "6456b75a2c49834b3e53b5c102646584",
+                "login_time": "2025-06-01 21:17:26",
+                "logout_time": null,
+                "duration_seconds": 59,
+                "last_activity": "2025-06-01T18:18:25.993Z"
+            },
+            {
+                "session_id": "ae7c059afd15dcc39acd9f7cbb504efa",
+                "login_time": "2025-06-01 21:19:02",
+                "logout_time": null,
+                "duration_seconds": 150,
+                "last_activity": "2025-06-01T18:21:32.534Z"
+            },
+            {
+                "session_id": "53e25901b56d47131539b5675a3eaef6",
+                "login_time": "2025-06-01 21:19:31",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-01T18:20:01.611Z"
+            },
+            {
+                "session_id": "c22db0a47621d37fef04e92b8e054f33",
+                "login_time": "2025-06-01 21:20:09",
+                "logout_time": null,
+                "duration_seconds": 180,
+                "last_activity": "2025-06-01T18:23:09.247Z"
+            },
+            {
+                "session_id": "8f127b78d041055b01897ff87971fde4",
+                "login_time": "2025-06-01 21:21:52",
+                "logout_time": null,
+                "duration_seconds": 60,
+                "last_activity": "2025-06-01T18:22:52.498Z"
+            },
+            {
+                "session_id": "9a7d5c47221a73ce16da3657658e90ee",
+                "login_time": "2025-06-01 21:23:12",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:23:12"
+            },
+            {
+                "session_id": "64e6693a4f89aed6977d4de1b427c8f0",
+                "login_time": "2025-06-01 21:26:21",
+                "logout_time": null,
+                "duration_seconds": 29,
+                "last_activity": "2025-06-01T18:26:50.963Z"
+            },
+            {
+                "session_id": "1f4d8a29fe7d01c28281e615c7eb6637",
+                "login_time": "2025-06-01 21:26:46",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:26:46"
+            },
+            {
+                "session_id": "a971eff07b6274e47ca89f471ce620f4",
+                "login_time": "2025-06-01 21:27:04",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:27:04"
+            },
+            {
+                "session_id": "d3a211eda4a03285246a978b5396984d",
+                "login_time": "2025-06-01 21:27:16",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:27:16"
+            },
+            {
+                "session_id": "f95df0238c7645d27185a80e35ae125a",
+                "login_time": "2025-06-01 21:27:31",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:27:31"
+            },
+            {
+                "session_id": "12054d9b4cd014788cf2cc46bfb015c2",
+                "login_time": "2025-06-01 21:27:43",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:27:43"
+            },
+            {
+                "session_id": "657b67c5ba9ff313a448b4e71dc110cf",
+                "login_time": "2025-06-01 21:27:55",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:27:55"
+            },
+            {
+                "session_id": "eeb1a77daedc09f40e34e4fbb36efafe",
+                "login_time": "2025-06-01 21:28:07",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:28:07"
+            },
+            {
+                "session_id": "cb95bf411bf16208366f89d98c444153",
+                "login_time": "2025-06-01 21:28:21",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:28:21"
+            },
+            {
+                "session_id": "5233902ea69efc4fdbac6544eb28029d",
+                "login_time": "2025-06-01 21:28:28",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-01T18:28:58.292Z"
+            },
+            {
+                "session_id": "877cd84aa9e6336525ab8549093f1be9",
+                "login_time": "2025-06-01 21:29:02",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:29:02"
+            },
+            {
+                "session_id": "c34dc9e28c94700928eea4ed7b46e99e",
+                "login_time": "2025-06-01 21:29:07",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:29:07"
+            },
+            {
+                "session_id": "5c2ab3c6b561ea4563b4fd2c080a8460",
+                "login_time": "2025-06-01 21:29:29",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:29:29"
+            },
+            {
+                "session_id": "f22cb803f987c43fbbb9763110b48016",
+                "login_time": "2025-06-01 21:29:32",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:29:32"
+            },
+            {
+                "session_id": "565ebc2cadde62e91fdc8d0ab160e621",
+                "login_time": "2025-06-01 21:29:39",
+                "logout_time": null,
+                "duration_seconds": 389,
+                "last_activity": "2025-06-01T18:36:08.799Z"
+            },
+            {
+                "session_id": "9534fbea7b5673634a79a8ead0cc343a",
+                "login_time": "2025-06-01 21:36:25",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:36:25"
+            },
+            {
+                "session_id": "284f921f0546b0318251ef306e04518e",
+                "login_time": "2025-06-01 21:36:37",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:36:37"
+            },
+            {
+                "session_id": "80f4b6775ee977ff9c03ec718710908a",
+                "login_time": "2025-06-01 21:37:03",
+                "logout_time": null,
+                "duration_seconds": 60,
+                "last_activity": "2025-06-01T18:38:03.165Z"
+            },
+            {
+                "session_id": "5291de1b08771090012e5bfca932592a",
+                "login_time": "2025-06-01 21:37:17",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:37:17"
+            },
+            {
+                "session_id": "90820c70242478ffd1cc77c08eaff7c5",
+                "login_time": "2025-06-01 21:37:30",
+                "logout_time": null,
+                "duration_seconds": 1039,
+                "last_activity": "2025-06-01T18:54:49.660Z"
+            },
+            {
+                "session_id": "c40203ca64cffecd723675f1f37e8fdc",
+                "login_time": "2025-06-01 21:39:48",
+                "logout_time": null,
+                "duration_seconds": 90,
+                "last_activity": "2025-06-01T18:41:18.201Z"
+            },
+            {
+                "session_id": "b4c5a6cd33197367a54220c59e00802e",
+                "login_time": "2025-06-01 21:47:20",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-01T18:47:50.068Z"
+            },
+            {
+                "session_id": "970b6aa9df5357b09118c390cf78c01b",
+                "login_time": "2025-06-01 21:48:17",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-01T18:48:47.511Z"
+            },
+            {
+                "session_id": "bcdb14afa64e43c3c60921e0c8144885",
+                "login_time": "2025-06-01 21:48:59",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-01T18:49:29.313Z"
+            },
+            {
+                "session_id": "6f45e94ba2119ace4c60165589c6339a",
+                "login_time": "2025-06-01 21:49:50",
+                "logout_time": null,
+                "duration_seconds": 29,
+                "last_activity": "2025-06-01T18:50:19.868Z"
+            },
+            {
+                "session_id": "7af22792a248be3180f2bb77a0e1affc",
+                "login_time": "2025-06-01 21:50:37",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 21:50:37"
+            },
+            {
+                "session_id": "c5b2667a7488a11883895ed604fdd631",
+                "login_time": "2025-06-01 22:14:35",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 22:14:35"
+            },
+            {
+                "session_id": "3c0a0cfe3d6442a9dd399d08f82b7ed6",
+                "login_time": "2025-06-02 09:59:46",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 09:59:46"
+            },
+            {
+                "session_id": "1e9a0a01a00e3f024e676c9e39be8321",
+                "login_time": "2025-06-02 12:51:51",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 12:51:51"
+            },
+            {
+                "session_id": "b9a7488e7d809f1a3c8facb0d6005bfd",
+                "login_time": "2025-06-02 14:33:49",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-02T11:34:19.032Z"
+            },
+            {
+                "session_id": "28d76d4cd624efea81c0b99c148b2ec7",
+                "login_time": "2025-06-02 14:34:31",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 14:34:31"
+            },
+            {
+                "session_id": "a426ff66a12dfc6abc46bc771b233056",
+                "login_time": "2025-06-02 14:35:12",
+                "logout_time": null,
+                "duration_seconds": 304,
+                "last_activity": "2025-06-02T11:40:16.818Z"
+            },
+            {
+                "session_id": "a0e247687e7df97ecddb5ab70f7605cd",
+                "login_time": "2025-06-02 14:40:19",
+                "logout_time": null,
+                "duration_seconds": 150,
+                "last_activity": "2025-06-02T11:42:49.860Z"
+            },
+            {
+                "session_id": "0d4439d8174359aeb8723d00d49c210e",
+                "login_time": "2025-06-02 14:40:32",
+                "logout_time": null,
+                "duration_seconds": 579,
+                "last_activity": "2025-06-02T11:50:11.107Z"
+            },
+            {
+                "session_id": "8ce53b8500c7a1ac448508b231c4feb2",
+                "login_time": "2025-06-02 14:43:24",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 14:43:24"
+            },
+            {
+                "session_id": "dcb1a3b1aeb1a830586661b19a079fb6",
+                "login_time": "2025-06-02 14:45:00",
+                "logout_time": null,
+                "duration_seconds": 90,
+                "last_activity": "2025-06-02T11:46:30.555Z"
+            },
+            {
+                "session_id": "c016096a483c7814a854e0c905cff3b0",
+                "login_time": "2025-06-02 14:46:41",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 14:46:41"
+            },
+            {
+                "session_id": "b021dedfa27e23bc0498fbd233ae6daa",
+                "login_time": "2025-06-02 14:47:07",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 14:47:07"
+            },
+            {
+                "session_id": "0008c7f137d2d0355109644f313e0ece",
+                "login_time": "2025-06-02 14:47:55",
+                "logout_time": null,
+                "duration_seconds": 89,
+                "last_activity": "2025-06-02T11:49:24.883Z"
+            },
+            {
+                "session_id": "757ff03f31cfff72f2a4c19678cfdca1",
+                "login_time": "2025-06-02 14:51:44",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 14:51:44"
+            },
+            {
+                "session_id": "25deaa36b2f85e46e091e14e2b70a62e",
+                "login_time": "2025-06-02 14:55:19",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 14:55:19"
+            },
+            {
+                "session_id": "914932996afe0882aa811599f7e26ce8",
+                "login_time": "2025-06-02 14:58:46",
+                "logout_time": null,
+                "duration_seconds": 2946,
+                "last_activity": "2025-06-02T12:47:52.473Z"
+            },
+            {
+                "session_id": "07f107a3e4ffa9c3a1d4eed23a6ebc70",
+                "login_time": "2025-06-02 14:58:54",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 14:58:54"
+            },
+            {
+                "session_id": "615b5cc14f618f19e881f8c1f4bd10e9",
+                "login_time": "2025-06-02 15:00:40",
+                "logout_time": null,
+                "duration_seconds": 210,
+                "last_activity": "2025-06-02T12:04:10.505Z"
+            },
+            {
+                "session_id": "7fe3b0df3c8876e949de78992dbbf4fd",
+                "login_time": "2025-06-02 16:04:28",
+                "logout_time": null,
+                "duration_seconds": 1472,
+                "last_activity": "2025-06-02T13:29:00.394Z"
+            },
+            {
+                "session_id": "853680006bd6248063172f700bbef337",
+                "login_time": "2025-06-02 19:47:33",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 19:47:33"
+            },
+            {
+                "session_id": "962d9c9600506155c66f055dd9fffe53",
+                "login_time": "2025-06-02 19:47:52",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-02T16:48:22.152Z"
+            },
+            {
+                "session_id": "9f2583a23b6d3196ec258e5d0b4b8bfe",
+                "login_time": "2025-06-02 19:48:50",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 19:48:50"
+            },
+            {
+                "session_id": "5359549e0bb397ee1c7a4d0a624494a9",
+                "login_time": "2025-06-02 19:49:30",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 19:49:30"
+            },
+            {
+                "session_id": "4d465172a162051872381ef8d7ff2a1e",
+                "login_time": "2025-06-02 22:45:23",
+                "logout_time": null,
+                "duration_seconds": 178,
+                "last_activity": "2025-06-02T19:48:21.815Z"
+            },
+            {
+                "session_id": "9c88bbdec216366645e2157643e8ea26",
+                "login_time": "2025-06-02 22:58:14",
+                "logout_time": null,
+                "duration_seconds": 64,
+                "last_activity": "2025-06-02T19:59:18.257Z"
+            },
+            {
+                "session_id": "512ef6493fb1d39b3c5298c16e7062af",
+                "login_time": "2025-06-02 22:59:16",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 22:59:16"
+            },
+            {
+                "session_id": "b46e28f703dd99b7dd037ea2339305e0",
+                "login_time": "2025-06-02 22:59:24",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-02T19:59:54.522Z"
+            },
+            {
+                "session_id": "0ef6cbea78eb06d0743676bc9a535804",
+                "login_time": "2025-06-02 23:00:33",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-02T20:01:03.150Z"
+            },
+            {
+                "session_id": "afe9c64a70a44e73dbe39119296ae9a8",
+                "login_time": "2025-06-02 23:01:33",
+                "logout_time": null,
+                "duration_seconds": 210,
+                "last_activity": "2025-06-02T20:05:03.169Z"
+            },
+            {
+                "session_id": "9f645cdb0dd099201ba34295fc32871e",
+                "login_time": "2025-06-02 23:05:35",
+                "logout_time": null,
+                "duration_seconds": 37419,
+                "last_activity": "2025-06-03T06:29:14.520Z"
+            },
+            {
+                "session_id": "93fa4b400788fb0ef13d910af2aca493",
+                "login_time": "2025-06-02 23:31:13",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 23:31:13"
+            },
+            {
+                "session_id": "574708649d6c26ffd4edbf720bacfdd2",
+                "login_time": "2025-06-02 23:39:23",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 23:39:23"
+            },
+            {
+                "session_id": "17cfe78d0bb7b843e2a9da0abf62ecef",
+                "login_time": "2025-06-03 09:28:33",
+                "logout_time": null,
+                "duration_seconds": 300,
+                "last_activity": "2025-06-03T06:33:33.414Z"
+            },
+            {
+                "session_id": "bd60bbb96e789e38d1217671537c9022",
+                "login_time": "2025-06-03 09:33:47",
+                "logout_time": null,
+                "duration_seconds": 60,
+                "last_activity": "2025-06-03T06:34:47.744Z"
+            },
+            {
+                "session_id": "0b758ed60f55ad4978259783b7c6404d",
+                "login_time": "2025-06-03 09:39:01",
+                "logout_time": null,
+                "duration_seconds": 450,
+                "last_activity": "2025-06-03T06:46:31.856Z"
+            },
+            {
+                "session_id": "8c192d20a34bfe699ffb25d825fd675b",
+                "login_time": "2025-06-03 09:53:45",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 09:53:45"
+            },
+            {
+                "session_id": "b267b1f1c2a2128b23f5ce77f03d8b22",
+                "login_time": "2025-06-03 09:53:53",
+                "logout_time": null,
+                "duration_seconds": 1404,
+                "last_activity": "2025-06-03T07:17:17.690Z"
+            },
+            {
+                "session_id": "372ef211425e8e5397291c3b4224ffcb",
+                "login_time": "2025-06-03 11:02:52",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T08:03:22.342Z"
+            },
+            {
+                "session_id": "dc87c8543712c1a817b733c710281549",
+                "login_time": "2025-06-03 11:27:40",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 11:27:40"
+            },
+            {
+                "session_id": "d259810b13968377b53e8895174c5d3c",
+                "login_time": "2025-06-03 13:01:14",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 13:01:14"
+            },
+            {
+                "session_id": "0a0e170fb508188617272eb45fd60f6e",
+                "login_time": "2025-06-03 13:53:36",
+                "logout_time": null,
+                "duration_seconds": 1880,
+                "last_activity": "2025-06-03T11:24:56.189Z"
+            },
+            {
+                "session_id": "c445ac0f9aacd0714f48797f78181a0b",
+                "login_time": "2025-06-03 14:49:10",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 14:49:10"
+            },
+            {
+                "session_id": "a46dc0bc8ecc8e932517586a6fe827fc",
+                "login_time": "2025-06-03 14:50:30",
+                "logout_time": null,
+                "duration_seconds": 31,
+                "last_activity": "2025-06-03T11:51:01.007Z"
+            },
+            {
+                "session_id": "55f4e57795efca82d3597c3058e72c4b",
+                "login_time": "2025-06-03 14:51:20",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T11:51:50.405Z"
+            },
+            {
+                "session_id": "1aa3f02fba0212bc6d8752dba62c1959",
+                "login_time": "2025-06-03 16:02:52",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 16:02:52"
+            },
+            {
+                "session_id": "7ca5785f451b21db958695a857e69037",
+                "login_time": "2025-06-03 19:08:59",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T16:09:29.335Z"
+            },
+            {
+                "session_id": "03a4f1959b113adfd2832e52867318d9",
+                "login_time": "2025-06-03 19:10:02",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T16:10:32.005Z"
+            },
+            {
+                "session_id": "83ef718e85a7c4a5d545758264434758",
+                "login_time": "2025-06-03 19:11:08",
+                "logout_time": null,
+                "duration_seconds": 90,
+                "last_activity": "2025-06-03T16:12:38.592Z"
+            },
+            {
+                "session_id": "5877ea8e3f4d49c1ae504c02ad35b739",
+                "login_time": "2025-06-03 19:13:16",
+                "logout_time": null,
+                "duration_seconds": 90,
+                "last_activity": "2025-06-03T16:14:46.518Z"
+            },
+            {
+                "session_id": "209199034b3e2af666a51d5e9e35d22c",
+                "login_time": "2025-06-03 19:15:13",
+                "logout_time": null,
+                "duration_seconds": 450,
+                "last_activity": "2025-06-03T16:22:43.913Z"
+            },
+            {
+                "session_id": "fb8616e4abd1b744508692e36f002b11",
+                "login_time": "2025-06-03 19:30:32",
+                "logout_time": null,
+                "duration_seconds": 60,
+                "last_activity": "2025-06-03T16:31:32.893Z"
+            },
+            {
+                "session_id": "178cdec6e46ff6ad8fe375326c7b21a6",
+                "login_time": "2025-06-03 19:30:32",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T16:31:02.892Z"
+            },
+            {
+                "session_id": "a760361aeaa0f3328607ec5b6afbd2b5",
+                "login_time": "2025-06-03 19:31:49",
+                "logout_time": null,
+                "duration_seconds": 489,
+                "last_activity": "2025-06-03T16:39:58.086Z"
+            },
+            {
+                "session_id": "18491e9d03a411c87dbf30e58e72dd31",
+                "login_time": "2025-06-03 19:40:03",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T16:40:33.528Z"
+            },
+            {
+                "session_id": "460928c8686ff6ae0bec3dd825f7522f",
+                "login_time": "2025-06-03 19:40:47",
+                "logout_time": null,
+                "duration_seconds": 60,
+                "last_activity": "2025-06-03T16:41:47.804Z"
+            },
+            {
+                "session_id": "23320ad7e42a265eefbf4774f68c2908",
+                "login_time": "2025-06-03 19:42:17",
+                "logout_time": null,
+                "duration_seconds": 211,
+                "last_activity": "2025-06-03T16:45:48.165Z"
+            },
+            {
+                "session_id": "5dc47f7b22a64a8348c336c9fe4b865e",
+                "login_time": "2025-06-03 19:46:05",
+                "logout_time": null,
+                "duration_seconds": 211,
+                "last_activity": "2025-06-03T16:49:36.059Z"
+            },
+            {
+                "session_id": "a927053a74a89a657ff59ade53675c89",
+                "login_time": "2025-06-03 19:49:51",
+                "logout_time": null,
+                "duration_seconds": 272,
+                "last_activity": "2025-06-03T16:54:23.580Z"
+            },
+            {
+                "session_id": "384f8f4590bc6f3a98c8ff6db954042b",
+                "login_time": "2025-06-03 19:54:37",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 19:54:37"
+            },
+            {
+                "session_id": "002b8c06555b1746147923905ef8fba0",
+                "login_time": "2025-06-03 19:54:52",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-03T16:56:52.681Z"
+            },
+            {
+                "session_id": "04016257ff0421a7173e326f563727b5",
+                "login_time": "2025-06-03 19:57:18",
+                "logout_time": null,
+                "duration_seconds": 150,
+                "last_activity": "2025-06-03T16:59:48.883Z"
+            },
+            {
+                "session_id": "38b9bd4cd16a83cbe70c206c54158f9b",
+                "login_time": "2025-06-03 20:00:11",
+                "logout_time": null,
+                "duration_seconds": 365,
+                "last_activity": "2025-06-03T17:06:16.922Z"
+            },
+            {
+                "session_id": "52ae5d17841fb253981c78db703e5493",
+                "login_time": "2025-06-03 20:06:23",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T17:06:53.439Z"
+            },
+            {
+                "session_id": "c8057868bf3c02befb6197fdfe2f3cc4",
+                "login_time": "2025-06-03 20:07:36",
+                "logout_time": null,
+                "duration_seconds": 210,
+                "last_activity": "2025-06-03T17:11:06.849Z"
+            },
+            {
+                "session_id": "a77fc139b3474093bf7931e2779f4ef8",
+                "login_time": "2025-06-03 20:11:19",
+                "logout_time": null,
+                "duration_seconds": 60,
+                "last_activity": "2025-06-03T17:12:19.201Z"
+            },
+            {
+                "session_id": "09b6f1ac74e598aeed5b159923b66e79",
+                "login_time": "2025-06-03 20:12:24",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-03T17:14:24.827Z"
+            },
+            {
+                "session_id": "f146dfe154be54c27be8258ac9d624cc",
+                "login_time": "2025-06-03 20:13:09",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 20:13:09"
+            },
+            {
+                "session_id": "94ee9cc4ff29f808e7d7f02f18e35beb",
+                "login_time": "2025-06-03 20:14:52",
+                "logout_time": null,
+                "duration_seconds": 10524,
+                "last_activity": "2025-06-03T20:10:16.832Z"
+            },
+            {
+                "session_id": "35fd78d32cd7fbd17bb38ebce908d112",
+                "login_time": "2025-06-03 20:14:59",
+                "logout_time": null,
+                "duration_seconds": 90,
+                "last_activity": "2025-06-03T17:16:29.523Z"
+            },
+            {
+                "session_id": "ce25ad80e5a8db11c48fee002a207cea",
+                "login_time": "2025-06-03 20:16:49",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T17:17:19.773Z"
+            },
+            {
+                "session_id": "598500c97d01d089f4fe20b4359d2548",
+                "login_time": "2025-06-03 20:17:50",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 20:17:50"
+            },
+            {
+                "session_id": "aaf16b669199cbfbd96f594ec86b0f79",
+                "login_time": "2025-06-03 20:24:06",
+                "logout_time": null,
+                "duration_seconds": 322,
+                "last_activity": "2025-06-03T17:29:28.028Z"
+            },
+            {
+                "session_id": "7e831eb0ca78451fc96d0021e745187c",
+                "login_time": "2025-06-03 23:16:29",
+                "logout_time": null,
+                "duration_seconds": 421,
+                "last_activity": "2025-06-03T20:23:30.005Z"
+            },
+            {
+                "session_id": "10a796a929fdb4f4fd8dfae3cd9b1022",
+                "login_time": "2025-06-04 00:08:33",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T21:09:03.683Z"
+            },
+            {
+                "session_id": "9dfc89dee59faa9a4ed66a0344d64847",
+                "login_time": "2025-06-04 00:09:29",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-04 00:09:29"
+            },
+            {
+                "session_id": "88634fd22017d8e8545ca1dfc641c5ff",
+                "login_time": "2025-06-04 00:10:07",
+                "logout_time": null,
+                "duration_seconds": 364,
+                "last_activity": "2025-06-03T21:16:11.852Z"
+            },
+            {
+                "session_id": "e9b4ead689abe2611991892d61963271",
+                "login_time": "2025-06-04 09:13:20",
+                "logout_time": null,
+                "duration_seconds": 241,
+                "last_activity": "2025-06-04T06:17:21.959Z"
+            },
+            {
+                "session_id": "8aeda654fe10ac18d12d27801766a443",
+                "login_time": "2025-06-04 09:54:00",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-04 09:54:00"
+            }
+        ],
+        "favorites": [
+            "2_\u0441\u0435\u0437\u043e\u043d_\u0432\u044b\u0448\u0435\u043b_\ud83d\udd25_#kdrama_#\u043a\u043e\u0440\u0435\u044f_#\u0434\u043e\u0440\u0430\u043c\u044b.mp4",
+            "\u0441\u043e\u0432\u0435\u0442\u0443\u044e_\u0432\u0430\u043c_\u044d\u0442\u0443_\u0434\u043e\u0440\u0430\u043c\u0443_\ud83d\udc93_#\u043a\u043e\u0440\u0435\u044f_#kdrama_#\u0434\u043e\u0440\u0430\u043c\u0430.mp4",
+            "1\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a_\u0442\u044f\u0436\u0435\u043b\u043e_\u0431\u043e\u043b\u0435\u043d\ud83e\udd12_#\u043a\u043e\u0440\u0435\u044f_#\u0434\u043e\u0440\u0430\u043c\u0430_#\u0434\u043e\u0440\u0430\u043c\u044b_#\u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0430\u0432\u043e\u043d\u0433\u0435\u0308\u043d.mp4",
+            "\u0441\u043e\u0432\u0440\u0430\u043b_\u0441\u044b\u043d\u0443,_\u0447\u0442\u043e_\u043d\u0435_\u0437\u043d\u0430\u043b_\u043e_\u043d\u0435\u043c_#gangermans_#\u0434\u043e\u0440\u0430\u043c\u0430_#\u0441\u0435\u0440\u0438\u0430\u043b_#\u0444\u0438\u043b\u044c\u043c.mp4"
+        ],
+        "likes": [
+            "\u0441\u043e\u0432\u0440\u0430\u043b_\u0441\u044b\u043d\u0443,_\u0447\u0442\u043e_\u043d\u0435_\u0437\u043d\u0430\u043b_\u043e_\u043d\u0435\u043c_#gangermans_#\u0434\u043e\u0440\u0430\u043c\u0430_#\u0441\u0435\u0440\u0438\u0430\u043b_#\u0444\u0438\u043b\u044c\u043c.mp4",
+            "1\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a_\u0442\u044f\u0436\u0435\u043b\u043e_\u0431\u043e\u043b\u0435\u043d\ud83e\udd12_#\u043a\u043e\u0440\u0435\u044f_#\u0434\u043e\u0440\u0430\u043c\u0430_#\u0434\u043e\u0440\u0430\u043c\u044b_#\u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0430\u0432\u043e\u043d\u0433\u0435\u0308\u043d.mp4"
+        ],
+        "dislikes": [
+            "2_\u0441\u0435\u0437\u043e\u043d_\u0432\u044b\u0448\u0435\u043b_\ud83d\udd25_#kdrama_#\u043a\u043e\u0440\u0435\u044f_#\u0434\u043e\u0440\u0430\u043c\u044b.mp4",
+            "\u0441\u043e\u0432\u0435\u0442\u0443\u044e_\u0432\u0430\u043c_\u044d\u0442\u0443_\u0434\u043e\u0440\u0430\u043c\u0443_\ud83d\udc93_#\u043a\u043e\u0440\u0435\u044f_#kdrama_#\u0434\u043e\u0440\u0430\u043c\u0430.mp4"
+        ],
+        "last_activity": "2025-06-04T06:17:21.959Z",
+        "last_modified": "2025-06-04 09:13:23"
+    },
+    "710332614": {
+        "user_id": "710332614",
+        "username": "lyubaarc",
+        "first_name": "\u041b\u044e\u0431\u0430",
+        "last_name": "",
+        "language_code": "ru",
+        "is_premium": false,
+        "first_login": "2025-06-01 07:50:09",
+        "last_login": "2025-06-04 16:16:22",
+        "sessions": [
+            {
+                "session_id": "4c0ae698234d9dfc3846401ac58b9025",
+                "login_time": "2025-06-01 07:50:09",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-01 07:50:09"
+            },
+            {
+                "session_id": "a3e3a0f02859ccc79f06f4a84437fee3",
+                "login_time": "2025-06-01 20:43:39",
+                "logout_time": null,
+                "duration_seconds": 60,
+                "last_activity": "2025-06-01T17:44:39.186Z"
+            },
+            {
+                "session_id": "5f4d7a5da221808852be9b71ec0c4453",
+                "login_time": "2025-06-01 20:44:13",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-01T17:44:43.671Z"
+            },
+            {
+                "session_id": "149fe090b1d60f6847aaeefd85049735",
+                "login_time": "2025-06-02 14:55:24",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-02T11:57:24.176Z"
+            },
+            {
+                "session_id": "f1a9757942525dda93ca17b32e79d7a0",
+                "login_time": "2025-06-02 14:58:11",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 14:58:11"
+            },
+            {
+                "session_id": "86aec09a089f4bb6c55023b9e7823f62",
+                "login_time": "2025-06-02 14:58:58",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-02T11:59:28.473Z"
+            },
+            {
+                "session_id": "28b8c7dce0230979465684e997139eb0",
+                "login_time": "2025-06-02 15:00:42",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-02 15:00:42"
+            },
+            {
+                "session_id": "798e8edce0ea9ac6e4675a59a6b21fa5",
+                "login_time": "2025-06-03 09:49:42",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 09:49:42"
+            },
+            {
+                "session_id": "01340e6a3fd616c4ee2019c2059e8a86",
+                "login_time": "2025-06-03 09:49:47",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T06:50:17.533Z"
+            },
+            {
+                "session_id": "8f151791ada540bbd8227da91269a799",
+                "login_time": "2025-06-03 09:50:58",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T06:51:28.327Z"
+            },
+            {
+                "session_id": "f62a30e6d76e12b9630a7dcf232f29cc",
+                "login_time": "2025-06-03 11:00:10",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-03T08:00:40.314Z"
+            },
+            {
+                "session_id": "f88f15173ab794704390d724169d3bd7",
+                "login_time": "2025-06-03 11:01:54",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-03 11:01:54"
+            },
+            {
+                "session_id": "3518e84ef70e244e5a9a713ec2dcfe1b",
+                "login_time": "2025-06-03 20:29:44",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-03T17:31:44.125Z"
+            },
+            {
+                "session_id": "ed7fb58ab62faea4b87174e8700ada9a",
+                "login_time": "2025-06-03 20:33:37",
+                "logout_time": null,
+                "duration_seconds": 60,
+                "last_activity": "2025-06-03T17:34:37.609Z"
+            },
+            {
+                "session_id": "8c1ef787c7c593ba975296a6b2e0f129",
+                "login_time": "2025-06-04 10:02:49",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-04T07:03:19.537Z"
+            },
+            {
+                "session_id": "94324eb466c51114b268a506918a7178",
+                "login_time": "2025-06-04 10:03:25",
+                "logout_time": null,
+                "duration_seconds": 120,
+                "last_activity": "2025-06-04T07:05:25.347Z"
+            },
+            {
+                "session_id": "5de7151712ac7d6224bced44a9e3dbd0",
+                "login_time": "2025-06-04 10:07:20",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-04 10:07:20"
+            },
+            {
+                "session_id": "60664b384bd31da16050766b6d43b84b",
+                "login_time": "2025-06-04 10:08:40",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-04 10:08:40"
+            },
+            {
+                "session_id": "93159ba402061d952938d72aa8999ae4",
+                "login_time": "2025-06-04 16:15:18",
+                "logout_time": null,
+                "duration_seconds": 30,
+                "last_activity": "2025-06-04T13:15:48.928Z"
+            },
+            {
+                "session_id": "0aaea31be82d28491fbad2af6e0576ea",
+                "login_time": "2025-06-04 16:16:22",
+                "logout_time": null,
+                "duration_seconds": 0,
+                "last_activity": "2025-06-04 16:16:22"
+            }
+        ],
+        "favorites": [
+            "\u0441\u043e\u0432\u0435\u0442\u0443\u044e_\u0432\u0430\u043c_\u044d\u0442\u0443_\u0434\u043e\u0440\u0430\u043c\u0443_\ud83d\udc93_#\u043a\u043e\u0440\u0435\u044f_#kdrama_#\u0434\u043e\u0440\u0430\u043c\u0430.mp4",
+            "1\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a_\u0442\u044f\u0436\u0435\u043b\u043e_\u0431\u043e\u043b\u0435\u043d\ud83e\udd12_#\u043a\u043e\u0440\u0435\u044f_#\u0434\u043e\u0440\u0430\u043c\u0430_#\u0434\u043e\u0440\u0430\u043c\u044b_#\u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0430\u0432\u043e\u043d\u0433\u0435\u0308\u043d.mp4",
+            "\u0441\u043e\u0432\u0440\u0430\u043b_\u0441\u044b\u043d\u0443,_\u0447\u0442\u043e_\u043d\u0435_\u0437\u043d\u0430\u043b_\u043e_\u043d\u0435\u043c_#gangermans_#\u0434\u043e\u0440\u0430\u043c\u0430_#\u0441\u0435\u0440\u0438\u0430\u043b_#\u0444\u0438\u043b\u044c\u043c.mp4",
+            "\u041d\u043e\u0432\u0438\u043d\u043a\u0430 \ud83d\udc97 #\u043a\u043e\u0440\u0435\u044f #kdrama #\u0434\u043e\u0440\u0430\u043c\u0430.mp4",
+            "2_\u0441\u0435\u0437\u043e\u043d_\u0432\u044b\u0448\u0435\u043b_\ud83d\udd25_#kdrama_#\u043a\u043e\u0440\u0435\u044f_#\u0434\u043e\u0440\u0430\u043c\u044b.mp4"
+        ],
+        "likes": [],
+        "dislikes": [],
+        "last_activity": "2025-06-04T13:15:48.928Z",
+        "last_modified": "2025-06-04 10:05:01"
+    }
+}
